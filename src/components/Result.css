@@ -1,0 +1,20 @@
+/* Result component styles */
+.result-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .result-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .result-container p {
+    font-size: 18px;
+    color: #555;
+  }
+  
